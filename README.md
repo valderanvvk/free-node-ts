@@ -1,0 +1,1 @@
+# An empty template for developing NODE JS applications
